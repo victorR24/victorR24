@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho como Front-end e SEO
 - 🌱 Estudando javascript
 - 👯 Tenho minha propria empresa 
-- 📫 Contate-me bo Email: victorrodrigues10223@gmail.com
+- 📫 Contate-me no Email: victorrodrigues10223@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
